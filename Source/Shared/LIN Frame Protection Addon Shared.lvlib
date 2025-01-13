@@ -10,6 +10,7 @@
 			<Item Name="Set Signal Configuration.vi" Type="VI" URL="../SubVIs/Set Signal Configuration.vi"/>
 		</Item>
 		<Item Name="Types" Type="Folder">
+			<Item Name="CRCConfiguration.ctl" Type="VI" URL="../Types/CRCConfiguration.ctl"/>
 			<Item Name="FrameConfiguration.ctl" Type="VI" URL="../Types/FrameConfiguration.ctl"/>
 			<Item Name="InputChannelConfiguration.ctl" Type="VI" URL="../Types/InputChannelConfiguration.ctl"/>
 			<Item Name="OutputChannelConfiguration.ctl" Type="VI" URL="../Types/OutputChannelConfiguration.ctl"/>

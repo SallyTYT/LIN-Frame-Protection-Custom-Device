@@ -8,6 +8,11 @@
 		<Item Name="Run" Type="Folder"/>
 		<Item Name="Shut Down" Type="Folder"/>
 		<Item Name="SubVIs" Type="Folder">
+			<Item Name="CRC" Type="Folder">
+				<Item Name="CRC-8.vi" Type="VI" URL="../SubVIs/CRC-8.vi"/>
+				<Item Name="CRC-16.vi" Type="VI" URL="../SubVIs/CRC-16.vi"/>
+				<Item Name="CRC-32.vi" Type="VI" URL="../SubVIs/CRC-32.vi"/>
+			</Item>
 			<Item Name="Calculate.vi" Type="VI" URL="../SubVIs/Calculate.vi"/>
 			<Item Name="Generate.vi" Type="VI" URL="../SubVIs/Generate.vi"/>
 			<Item Name="Initialize Generate.vi" Type="VI" URL="../SubVIs/Initialize Generate.vi"/>
